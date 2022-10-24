@@ -1,6 +1,6 @@
-# Homework 6
+# Business Search Webpage
 
-## Demo!
+## Demo
 
 Try the app here - <a href="https://project-new-first-571.wl.r.appspot.com/" > Demo</a>
 
